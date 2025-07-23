@@ -1,0 +1,243 @@
+/* Estilos para la barra de herramientas */
+.main-toolbar {
+  background: var(--gradient-header);
+  color: var(--text-on-green);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 2;
+}
+
+.toolbar-row {
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
+  height: 70px; /* Aumentado para acomodar el logo */
+}
+
+/* Contenedor del logo y título */
+.brand-container {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.brand-logo {
+  height: 40px;
+  width: auto;
+  margin-right: 12px;
+  /* filter: brightness(0) invert(1); Hace el logo blanco */
+  transition: all 0.3s ease;
+}
+
+.menu-button {
+  color: var(--text-on-green);
+  margin-right: 8px;
+}
+
+.menu-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.app-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-right: 16px;
+  font-size: 0.875rem;
+}
+
+.user-email {
+  font-weight: 500;
+}
+
+.user-role {
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+
+.logout-button {
+  color: var(--text-on-green);
+  transition: all 0.3s ease;
+}
+
+.logout-button:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
+}
+
+/* Estilos para el sidenav */
+.sidenav-container {
+  height: calc(100vh - 70px); /* Ajustado por el nuevo alto de la toolbar */
+}
+
+.app-sidenav {
+  width: 240px;
+  background: var(--gradient-card);
+  border-right: none;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Encabezado del sidenav con logo */
+.sidenav-header {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  background: var(--gradient-header);
+  margin-bottom: 10px;
+}
+
+.sidenav-logo {
+  height: 60px;
+  width: auto;
+}
+
+.nav-list {
+  padding-top: 0;
+}
+
+.nav-item {
+  height: 48px;
+  margin: 4px 8px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  color: var(--primary-green-900);
+}
+
+.nav-item:hover {
+  background-color: var(--primary-green-100);
+}
+
+.nav-item.active {
+  background: var(--gradient-primary);
+  color: var(--text-on-green);
+}
+
+.nav-item.active .nav-icon {
+  color: var(--text-on-green);
+}
+
+.nav-icon {
+  color: var(--primary-green-600);
+  margin-right: 16px;
+}
+
+.nav-label {
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.main-content {
+  background-color: #fafafa;
+}
+
+.content-container {
+  padding: 16px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+  .app-sidenav {
+    width: 200px;
+  }
+
+  .brand-logo {
+    height: 35px;
+    margin-right: 8px;
+  }
+
+  .app-title {
+    font-size: 1rem;
+  }
+
+  .user-info {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .sidenav-container {
+    height: calc(100vh - 60px);
+  }
+
+  .toolbar-row {
+    padding: 0 8px;
+    height: 60px;
+  }
+
+  .app-sidenav {
+    width: 180px;
+  }
+
+  .brand-logo {
+    height: 30px;
+  }
+
+  .sidenav-logo {
+    height: 50px;
+  }
+
+  .menu-button {
+    margin-right: 4px;
+  }
+
+  .nav-item {
+    height: 44px;
+  }
+
+  .nav-icon {
+    margin-right: 12px;
+  }
+}
+
+@media (max-width: 500px) {
+  .brand-logo {
+    height: 25px;
+  }
+
+  .app-title {
+    font-size: 0.9rem;
+    max-width: 100px;
+  }
+}
+
+@media (max-width: 400px) {
+  .toolbar-row {
+    height: 56px;
+  }
+
+  .brand-logo {
+    display: none; /* Ocultar logo en pantallas muy pequeñas */
+  }
+
+  .app-title {
+    font-size: 0.875rem;
+    max-width: 120px;
+  }
+
+  .app-sidenav {
+    width: 160px;
+  }
+
+  .sidenav-logo {
+    height: 40px;
+  }
+
+  .nav-label {
+    font-size: 0.8125rem;
+  }
+}

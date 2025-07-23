@@ -1,41 +1,45 @@
-<mat-toolbar color="primary">
-    <mat-toolbar-row>
-        <h1>Sistema Venta</h1>
-
-        <button mat-icon-button (click)="sidenav.toggle();">
+<mat-toolbar class="main-toolbar">
+    <mat-toolbar-row class="toolbar-row">
+        <button mat-icon-button class="menu-button" (click)="sidenav.toggle()">
             <mat-icon>menu</mat-icon>
         </button>
 
-        <span style="flex: 1 1 auto;"></span>
-        <label style="font-size: 14px; margin-right: 20px;">
-            {{correoUsuario}} | {{rolUsuario}}
-        </label>
-        <button mat-icon-button (click)="cerrarSesion()">
+        <!-- Contenedor del logo y título -->
+        <div class="brand-container">
+            <img src="../../../assets/logovivero.png" alt="Logo Vivero Verde Vida" class="brand-logo">
+            <h1 class="app-title">Vivero Verde Vida</h1>
+        </div>
+
+        <div class="spacer"></div>
+
+        <div class="user-info">
+            <span class="user-email">{{correoUsuario}}</span>
+            <span class="user-role">{{rolUsuario}}</span>
+        </div>
+
+        <button mat-icon-button class="logout-button" (click)="cerrarSesion()" matTooltip="Cerrar sesión">
             <mat-icon>logout</mat-icon>
         </button>
-
     </mat-toolbar-row>
 </mat-toolbar>
 
-<mat-sidenav-container>
-    <mat-sidenav #sidenav opened="true" mode="side" style="width: 200px;"  >
-        <mat-nav-list>
-
-            <mat-list-item *ngFor="let menu of listaMenus"   [routerLink]="menu.url">
-                <mat-icon mat-list-icon>{{menu.icono}}</mat-icon>
-                <div mat-line>{{menu.nombre}}</div>
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #sidenav class="app-sidenav" mode="side">
+        <div class="sidenav-header">
+            <img src="../../../assets/logovivero.png" alt="Logo Vivero Verde Vida" class="sidenav-logo">
+        </div>
+        <mat-nav-list class="nav-list">
+            <mat-list-item *ngFor="let menu of listaMenus" [routerLink]="menu.url"
+                          class="nav-item" routerLinkActive="active">
+                <mat-icon mat-list-icon class="nav-icon">{{menu.icono}}</mat-icon>
+                <span class="nav-label">{{menu.nombre}}</span>
             </mat-list-item>
-
-
         </mat-nav-list>
-
     </mat-sidenav>
 
-    <mat-sidenav-content>
-        <div style="height: 90vh;">
-            <router-outlet></router-outlet>
+     <mat-sidenav-content class="main-content">
+        <div class="content-container">
+            <router-outlet></router-outlet> <!-- Aquí se cargará el dashboard -->
         </div>
-
     </mat-sidenav-content>
-
 </mat-sidenav-container>

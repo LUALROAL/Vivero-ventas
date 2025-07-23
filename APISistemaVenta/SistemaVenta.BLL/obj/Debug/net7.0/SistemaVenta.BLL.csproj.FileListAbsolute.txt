@@ -40,3 +40,25 @@ C:\Users\USUARIO\Desktop\vivero_verde_vida\091_Curso de Sistema Venta Angular\AP
 C:\Users\USUARIO\Desktop\vivero_verde_vida\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
 C:\Users\USUARIO\Desktop\vivero_verde_vida\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
 C:\Users\USUARIO\Desktop\vivero_verde_vida\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.deps.json
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.sourcelink.json
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaV.93BC7325.Up2Date
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\USUARIO\Desktop\vivero_verde_vida\Sistema-Venta-vivero\APISistemaVenta\SistemaVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll

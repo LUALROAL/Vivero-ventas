@@ -22,7 +22,7 @@ export class LoginComponent implements OnInit {
     private router: Router,
     private _usuarioServicio: UsuarioService,
     private _utilidadServicio: UtilidadService
-  ) { 
+  ) {
     this.formularioLogin = this.fb.group({
       email:['',Validators.required],
       password:['',Validators.required]
@@ -33,35 +33,31 @@ export class LoginComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  iniciarSesion(){
+ iniciarSesion(){
+  this.mostrarLoading = true;
 
-    this.mostrarLoading = true;
-
-    const request: Login ={
-      correo : this.formularioLogin.value.email,
-      clave : this.formularioLogin.value.password
-    }
-
-    this._usuarioServicio.iniciarSesion(request).subscribe({
-      next: (data) => {
-        if(data.status){
-          this._utilidadServicio.guardarSesionUsuario(data.value);
-          this.router.navigate(["pages"])
-        }else
-          this._utilidadServicio.mostrarAlerta("No se encontraron coincidencias","Opps!")
-
-      },
-      complete : () =>{
-        this.mostrarLoading = false;
-      },
-      error : ()=>{
-        this._utilidadServicio.mostrarAlerta("Hubo un error", "Opps!")
-
-      }
-    })
-
-
+  const request: Login = {
+    correo: this.formularioLogin.value.email,
+    clave: this.formularioLogin.value.password
   }
+
+  this._usuarioServicio.iniciarSesion(request).subscribe({
+    next: (data) => {
+      if(data.status){
+        this._utilidadServicio.guardarSesionUsuario(data.value);
+        this.router.navigate(["dashboard"]); // Cambiado a "dashboard"
+      } else {
+        this._utilidadServicio.mostrarAlerta("No se encontraron coincidencias", "Opps!")
+      }
+    },
+    complete: () => {
+      this.mostrarLoading = false;
+    },
+    error: () => {
+      this._utilidadServicio.mostrarAlerta("Hubo un error", "Opps!")
+    }
+  });
+}
 
 
 

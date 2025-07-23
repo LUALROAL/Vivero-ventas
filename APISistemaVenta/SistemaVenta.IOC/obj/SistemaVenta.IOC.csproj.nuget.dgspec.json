@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "projectName": "SistemaVenta.BLL",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,17 +32,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
               }
             }
           }
@@ -57,7 +57,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -73,37 +73,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "projectName": "SistemaVenta.DAL",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,8 +110,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }
@@ -140,7 +126,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -156,37 +142,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,7 +191,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -235,37 +207,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "projectName": "SistemaVenta.IOC",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -286,14 +244,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
               }
             }
           }
@@ -308,7 +266,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -324,37 +282,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -387,7 +331,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -415,37 +359,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -466,11 +396,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }
@@ -485,7 +415,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -511,26 +441,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

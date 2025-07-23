@@ -1,4 +1,110 @@
-/* You can add global styles to this file, and also import other style files */
+/* Variables de color verde con degradados */
+:root {
+  --primary-green-50: #e8f5e9;
+  --primary-green-100: #c8e6c9;
+  --primary-green-200: #a5d6a7;
+  --primary-green-300: #81c784;
+  --primary-green-400: #66bb6a;
+  --primary-green-500: #4caf50;
+  --primary-green-600: #43a047;
+  --primary-green-700: #388e3c;
+  --primary-green-800: #2e7d32;
+  --primary-green-900: #1b5e20;
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+  --accent-green-400: #9ccc65;
+  --accent-green-500: #8bc34a;
+
+  --text-on-green: #ffffff;
+  --text-on-light-green: #333333;
+
+  /* Degradados definidos */
+  --gradient-primary: linear-gradient(135deg, var(--primary-green-400), var(--primary-green-600));
+  --gradient-accent: linear-gradient(135deg, var(--accent-green-400), var(--primary-green-400));
+  --gradient-header: linear-gradient(to right, var(--primary-green-500), var(--primary-green-700));
+  --gradient-card: linear-gradient(to bottom, #ffffff, var(--primary-green-50));
+}
+
+/* Estilos globales con degradado sutil */
+body {
+  background: linear-gradient(135deg, #f5f5f5 0%, var(--primary-green-100) 100%);
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  min-height: 100vh;
+}
+
+/* Estilos para los inputs de Angular Material con efectos de degradado */
+.mat-form-field-outline {
+  color: var(--primary-green-200);
+}
+
+.mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-image: var(--gradient-primary) 1;
+}
+
+.mat-form-field-label {
+  color: var(--primary-green-400);
+}
+
+.mat-focused .mat-form-field-label {
+  color: var(--primary-green-600);
+}
+
+.mat-input-element {
+  caret-color: var(--primary-green-500);
+}
+
+/* Botones con degradado */
+.mat-raised-button {
+  background: var(--gradient-primary);
+  color: var(--text-on-green);
+  border: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.mat-raised-button:hover {
+  background: linear-gradient(135deg, var(--primary-green-500), var(--primary-green-700));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.mat-raised-button:disabled {
+  background: var(--primary-green-200);
+}
+
+/* Barra de progreso con degradado */
+.mat-progress-bar-buffer {
+  background-color: var(--primary-green-100);
+}
+
+.mat-progress-bar-fill::after {
+  background: var(--gradient-primary);
+}
+
+/* Efectos para iconos */
+.mat-icon {
+  color: var(--primary-green-900);
+  transition: all 0.3s ease;
+}
+
+button.mat-icon-button:hover .mat-icon {
+  color: var(--primary-green-700);
+  transform: scale(1.1);
+}
+
+/* Efecto de onda al hacer clic */
+@keyframes ripple {
+  to {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+.mat-button-ripple {
+  background: rgba(255, 255, 255, 0.4);
+  animation: ripple 0.6s linear;
+}

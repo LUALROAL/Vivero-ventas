@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+KQ6hkmmzF8=",
+  "dgSpecHash": "8VuGeASCeYA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\091_Curso de Sistema Venta Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -66,10 +66,7 @@
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
