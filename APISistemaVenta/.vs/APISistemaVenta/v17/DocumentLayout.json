@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2A80EA0-9AE2-4947-984E-6BA105E89864}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A80EA0-9AE2-4947-984E-6BA105E89864}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.dal\\repositorios\\contrato\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\contrato\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C78991-70EA-413A-968C-B69BF9CDF5DB}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D852CBCB-5C16-4204-B07F-38EDB0DFDFC3}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\usuario\\desktop\\vivero_verde_vida\\sistema-venta-vivero\\apisistemaventa\\sistemaventa.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,20 +65,85 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:01:23.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:01:21.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SistemaVenta.Utility\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:01:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwDcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:00:53.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:00:49.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "SistemaVenta.API\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "SistemaVenta.API\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wB8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T20:41:50.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SistemaVenta.API\\Properties\\launchSettings.json",
@@ -70,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DbventaContext.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
@@ -82,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
               "RelativeDocumentMoniker": "SistemaVenta.API\\Program.cs",
@@ -94,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "SistemaVenta.API\\Controllers\\UsuarioController.cs",
@@ -106,16 +191,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaVenta.API\\appsettings.json",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\vivero_verde_vida\\Sistema-Venta-vivero\\APISistemaVenta\\SistemaVenta.API\\appsettings.json",
               "RelativeToolTip": "SistemaVenta.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T02:33:46.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T02:33:46.225Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
